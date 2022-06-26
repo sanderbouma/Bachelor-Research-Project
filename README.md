@@ -24,6 +24,8 @@ matplotlib             3.5.1
 matplotlib-inline      0.1.3
 numpy                  1.22.3
 pandas                 1.4.2
+ROOT                   6.26/02
+Ubuntu                 22.04 LTS
 
 
 
